@@ -1,0 +1,1 @@
+# shopee-seeding-bot-release
